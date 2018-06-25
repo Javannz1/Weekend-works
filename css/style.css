@@ -1,0 +1,40 @@
+.row h4{
+	font-family: 'roboto', sans-serif;
+	font-size: 16px;
+	display: inline-block;	
+}
+
+.row .icon{
+	margin-left: 100px;
+}
+
+.row i{
+	font-size: 16px;	
+	margin-left: 1100px;
+}
+	
+.title h1{
+	font-size: 28px;
+	text-align: center;
+}
+
+.text p{
+	font-family: 'roboto', sans-serif
+	font-size: 16px;
+	text-align: center;
+}
+
+.buttons {
+	text-align: center;
+}
+
+.card h5{
+	text-align: center;	
+}
+
+
+	
+
+
+
+
